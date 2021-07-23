@@ -1,0 +1,10 @@
+* {-moz-background-clip:padding;z-index:0}
+a {cursor:pointer}
+body,iframe {margin:0px;padding:0px}
+div,span,img,a,form,body,label {border-width:1px;border-color:black}
+.Link2_nm {color:#ED5C00; font-size:18px; font-weight:bold; text-decoration:underline; }
+.Panel2_nm {background-color:White; border-style:dotted; }
+.index_nm {font-family:Arial; font-size:16px; background-image:url('index_nm.jpg'); }
+.Image1_nm {background-image:url('Image1_nm.png'); }
+.Link1_nm {color:#ED5C00; font-size:18px; font-weight:bold; text-decoration:underline; }
+.Label1_nm {font-size:18px; font-weight:bold; }
